@@ -7,9 +7,17 @@
                 </div>
             </div>
             <div class="col">
-                <div class="nav-bar">
-                    Nav Bar
-                </div>
+                <ul class="nav nav-underline">
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Active</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#">Link</a>
+                    </li>
+                </ul>
             </div>
             <div class="col">
                 <div class="search-input">
