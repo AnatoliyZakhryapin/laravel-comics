@@ -15,13 +15,13 @@
 
 </head>
 
-<body>
+<body class="d-flex flex-column">
 
     {{-- header --}}
     @include('partials.header')
 
     {{-- main content --}}
-    <main>
+    <main class="flex-grow-1">
         @yield('content')
     </main>
 
